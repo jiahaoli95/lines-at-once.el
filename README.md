@@ -10,7 +10,7 @@ The usage is very simple. Just type a line you want to repeat as usual, with str
 See the video demo below to better understand it.
 
 ## Demo
-[![Alt text](https://img.youtube.com/vi/7ZoYGpRn9w0-A/0.jpg)](https://www.youtube.com/watch?v=7ZoYGpRn9w0-A)
+[![Alt text](https://img.youtube.com/vi/7ZoYGpRn9w0/0.jpg)](https://www.youtube.com/watch?v=7ZoYGpRn9w0)
 
 ## Notes
 * To use literal `@` in you line, use `\` to escape.
