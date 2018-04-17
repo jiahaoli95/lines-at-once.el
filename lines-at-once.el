@@ -1,4 +1,4 @@
-;;; lines-at-once.el --- Insert multiple lines at once
+;;; lines-at-once.el --- Insert and edit multiple lines at once
 
 ;; Copyright (C) 2018 Jiahao Li
 
