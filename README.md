@@ -1,4 +1,4 @@
-# lines-at-once.el [![Melpa Status](http://melpa.milkbox.net/packages/lines-at-once-badge.svg)](http://melpa.milkbox.net/#/lines-at-once)
+# lines-at-once.el [![MELPA](https://melpa.org/packages/lines-at-once-badge.svg)](https://melpa.org/#/lines-at-once)
 This package for Emacs allows you to quickly insert and edit multiple lines at once.
 
 ## Setup
